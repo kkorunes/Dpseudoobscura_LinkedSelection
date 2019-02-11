@@ -5,6 +5,7 @@ This directory contains all scripts used for alignment, SNP calling, and hard fi
 
 #### Scripts for partitioning loci according to fixed differences between species are contained subdirectory "Scripts_PartitionLoci":
 
-#### Scripts for calculating intron pi are contained subdirectory "Scripts_IntronNucleotideDiversity":
+#### Scripts for analyzing introns contained subdirectory "Scripts_IntronDiversity":
+This directory contains all scripts used for selecting short introns from each gene and analyzing nucleotide diversity within these regions.
 
 #### Scripts for calculating 4-fold degenerate site pi are contained subdirectory "Scripts_FourFoldSiteDiversity":
