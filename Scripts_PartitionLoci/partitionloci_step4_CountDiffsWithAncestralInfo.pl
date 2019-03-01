@@ -3,8 +3,8 @@
 #  A step in the pipeline to look through the variant data and find genes without fixed
 #  differences.
 #
-#  This script using D.lowei as an outgroup to polarize ancestral vs dervied alleles. The output is a
-#  tab-delimted file, where each entry is a gene. Column 1 contains the count of derived alleles in Dpse
+#  This script uses D.lowei as an outgroup to polarize ancestral vs dervied alleles. The output is a
+#  tab-delimited file, where each entry is a gene. Column 1 contains the count of derived alleles in Dpse
 #  and Column 2 contains the count of derived allels in Dmir.
 #
 #  USAGE: perl partitionloci_step4.pl chr##_fixeddifferences.txt chr##_genotypesVCFtoTable.txt chr##
