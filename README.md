@@ -6,5 +6,5 @@ This directory contains all scripts used for alignment, SNP calling, and hard fi
 #### Scripts for partitioning loci according to fixed differences between species are contained subdirectory "Scripts_PartitionLoci":
 This directory includes scripts for parsing the gene spans obtained from FlyBase, identifying fixed differences between D.pseudoobscura and D.miranda, polarizing ancestral vs derived alleles using D.lowei, and tallying derived fixed differences within each species.
 
-#### Scripts for calculating 4-fold degenerate site pi are contained subdirectory "Scripts_FourFoldSiteDiversity":
+#### Scripts for calculating 4-fold degenerate site pi are contained subdirectory "Scripts_NeutralDiversity":
 This directory contains all scripts used for identifying 4-fold degenerate sites within each gene, calculating nucleotide diversity within these sites, and matching these measures to the corresponding regions within the recombination maps.
